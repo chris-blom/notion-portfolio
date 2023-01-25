@@ -7,7 +7,43 @@
  * Copyright 2011-2021 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap");
+/* @import url("https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap"); */
+
+@font-face {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/inter/Inter-Regular.woff2?v=3.19") format("woff2"),
+    url("../fonts/inter/Inter-Regular.woff?v=3.19") format("woff");
+}
+@font-face {
+  font-family: "Inter";
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/inter/Inter-Italic.woff2?v=3.19") format("woff2"),
+    url("../fonts/inter/Inter-Italic.woff?v=3.19") format("woff");
+}
+
+@font-face {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../fonts/inter/Inter-Bold.woff2?v=3.19") format("woff2"),
+    url("../fonts/inter/Inter-Bold.woff?v=3.19") format("woff");
+}
+@font-face {
+  font-family: "Inter";
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../fonts/inter/Inter-BoldItalic.woff2?v=3.19") format("woff2"),
+    url("../fonts/inter/Inter-BoldItalic.woff?v=3.19") format("woff");
+}
+
+
 .container,
 .container-fluid,
 .container-xl,
