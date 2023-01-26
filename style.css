@@ -29,16 +29,16 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url("../fonts/inter/Inter-Medium.woff2?v=3.19") format("woff2"),
-    url("../fonts/inter/Inter-Medium.woff?v=3.19") format("woff");
+  src: url("https://chris-blom.github.io/notion-portfolio/Inter-Medium.woff2?v=3.19") format("woff2"),
+    url("https://chris-blom.github.io/notion-portfolio/Inter-Medium.woff?v=3.19") format("woff");
 }
 @font-face {
   font-family: "Inter";
   font-style: italic;
   font-weight: 500;
   font-display: swap;
-  src: url("../fonts/inter/Inter-MediumItalic.woff2?v=3.19") format("woff2"),
-    url("../fonts/inter/Inter-MediumItalic.woff?v=3.19") format("woff");
+  src: url("https://chris-blom.github.io/notion-portfolio/Inter-MediumItalic.woff2?v=3.19") format("woff2"),
+    url("https://chris-blom.github.io/notion-portfolio/Inter-MediumItalic.woff?v=3.19") format("woff");
 }
 
 @font-face {
@@ -46,16 +46,16 @@
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url("../fonts/inter/Inter-SemiBold.woff2?v=3.19") format("woff2"),
-    url("../fonts/inter/Inter-SemiBold.woff?v=3.19") format("woff");
+  src: url("https://chris-blom.github.io/notion-portfolio/Inter-SemiBold.woff2?v=3.19") format("woff2"),
+    url("https://chris-blom.github.io/notion-portfolio/Inter-SemiBold.woff?v=3.19") format("woff");
 }
 @font-face {
   font-family: "Inter";
   font-style: italic;
   font-weight: 600;
   font-display: swap;
-  src: url("../fonts/inter/Inter-SemiBoldItalic.woff2?v=3.19") format("woff2"),
-    url("../fonts/inter/Inter-SemiBoldItalic.woff?v=3.19") format("woff");
+  src: url("https://chris-blom.github.io/notion-portfolio/Inter-SemiBoldItalic.woff2?v=3.19") format("woff2"),
+    url("https://chris-blom.github.io/notion-portfolio/Inter-SemiBoldItalic.woff?v=3.19") format("woff");
 }
 
 @font-face {
@@ -902,7 +902,7 @@ ul, ol, li {
 }
 
 h1, h2 {
-  font-weight: 700 !important;
+  font-weight: 600 !important;
   letter-spacing: 0rem !important;
   max-width: 80%;
 }
