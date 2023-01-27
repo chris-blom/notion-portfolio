@@ -836,7 +836,7 @@ img {
 
 .notion-heading {
   padding: 0 !important;
-  /* line-height: 1.2 !important; */
+  line-height: 1.2 !important;
   }
   .notion-heading .notion-semantic-string {
     line-height: 1.2 !important;
@@ -1373,7 +1373,7 @@ pre {
         padding-bottom: 1rem !important; }
         .super-content .notion-collection-gallery.medium .notion-collection-card .notion-property__title .notion-semantic-string {
           white-space: normal !important;
-          /* line-height: 1.35 !important; */
+          line-height: 1.35 !important;
           }
         .super-content .notion-collection-gallery.medium .notion-collection-card .notion-property__title .notion-property__title__icon-wrapper {
           display: none !important; }
